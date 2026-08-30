@@ -27,11 +27,11 @@ const projects = [
   },
 
   {
-    title: "To-Do List",
+    title: "Weather Application",
     description:
-      "A simple task management application that allows users to add, manage and remove tasks.",
+      "A simple weather application that displays current weather conditions and forecasts.",
     technologies: ["HTML", "CSS", "JavaScript", "React"],
-    github: "http://github.com/Aslam123-git/To-Do-List",
+    github: "http://github.com/Aslam123-git/weather-app",
     live: "YOUR_LIVE_LINK",
   },
 ];
