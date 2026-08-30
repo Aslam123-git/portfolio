@@ -31,8 +31,8 @@ const projects = [
     description:
       "A simple weather application that displays current weather conditions and forecasts.",
     technologies: ["HTML", "CSS", "JavaScript", "React"],
-    github: "http://github.com/Aslam123-git/weather-app",
-    live: "weather-application123.vercel.app",
+    github: "https://github.com/Aslam123-git/weather-app",
+    live: "https://weather-application123.vercel.app",
   },
 ];
 
