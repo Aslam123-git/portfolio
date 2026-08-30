@@ -32,7 +32,7 @@ const projects = [
       "A simple weather application that displays current weather conditions and forecasts.",
     technologies: ["HTML", "CSS", "JavaScript", "React"],
     github: "http://github.com/Aslam123-git/weather-app",
-    live: "YOUR_LIVE_LINK",
+    live: "weather-application123.vercel.app",
   },
 ];
 
