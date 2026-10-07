@@ -14,7 +14,7 @@ const projects = [
       "An interactive two-player Tic Tac Toe game with game logic and winner detection.",
     technologies: ["HTML", "CSS", "JavaScript", "React"],
     github: "https://github.com/Aslam123-git/Tic-Toc-Toe-Game",
-    live: "YOUR_LIVE_LINK",
+    live: "https://tic-toc-toe-game-blush.vercel.app/",
   },
 
   {
